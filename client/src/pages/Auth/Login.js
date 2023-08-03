@@ -42,7 +42,7 @@ const Login = () => {
     <Layout title="Register - shopzo">
       <div className="form-container ">
         <form onSubmit={handleSubmit}>
-          <h4 className="title">LOGIN FORM</h4>
+          <h4 className="title">SIGN IN</h4>
 
           <div className="mb-3">
             <input
