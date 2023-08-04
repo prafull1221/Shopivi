@@ -29,7 +29,7 @@ const Layout = ({ children, title, description, keywords, author }) => {
 
 Layout.defaultProps={
     title: "Shopzo",
-    description:"ecoomerce app",
+    description:"ecommerce app",
     keywords: " mern",
     author: "prafull"
 
